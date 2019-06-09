@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-ani-auth",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "dev": "set NODE_ENV=development && node index.js",
+    "build": "next build && yarn dev",
+    "start": "node index.js"
+  },
+  "author": "nyon-one <one.nyon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express-session": "^1.16.1",
+    "nedb": "^1.8.0",
+    "next": "^8.1.0",
+    "next-auth": "^1.12.1",
+    "passport-oauth2": "^1.5.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
