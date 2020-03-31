@@ -13,7 +13,7 @@
     "dotenv": "^8.0.0",
     "express-session": "^1.16.1",
     "nedb": "^1.8.0",
-    "next": "^8.1.0",
+    "next": "^9.3.3",
     "next-auth": "^1.12.1",
     "passport-oauth2": "^1.5.0",
     "react": "^16.8.6",
